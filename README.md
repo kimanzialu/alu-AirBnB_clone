@@ -1,6 +1,4 @@
-# AirBnB Clone — The Console
-
-## Project Description
+# AirBnB Clone Project Description
 
 This project is the first step towards building a simple clone of the AirBnB web app. Here, we focus on creating a **command interpreter** (a console) in Python. The console allows us to create, update, delete, and manage objects that represent different parts of the AirBnB system (like users, places, states, etc.). All the data is saved in a JSON file for persistence.
 
